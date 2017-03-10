@@ -1,5 +1,4 @@
-# Deep-Scoring-Project #scoring-systems #ensamble
-Deep Scoring Project: 
+# Deep-Scoring-Project  
 Research Project with Dr. Frank Hsu of Fordham University.
 The aim of this project is to take a set of scoring systems and get a better performance at each layer. 
 We start with a set of scoring systems and combine them in interesting ways that aim to increase performance.
