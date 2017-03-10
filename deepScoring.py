@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  8 23:09:59 2017
-
-@author: moazi
-"""
-#dependence
-# -*- coding: utf-8 -*-
 """
 Created on Sat Feb 11 15:48:25 2017
 
