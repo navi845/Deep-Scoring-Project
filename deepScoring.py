@@ -10,7 +10,7 @@ import sklearn.preprocessing as pre
 import itertools as itter
 
 # get data from csv
-data = np.genfromtxt('l2Scores.csv',  delimiter=',')
+data = np.genfromtxt('l2Scores.csv',  delimiter=',')#run one is runing this code with A to E, run two is using l2Scores
 data = np.delete(data, (0), axis=0)  # remove labels columb
 actual = np.genfromtxt('Actual.csv',  delimiter=',')
 actual = np.delete(actual, (0), axis=0)
